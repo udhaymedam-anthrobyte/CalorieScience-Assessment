@@ -1,0 +1,6 @@
+{
+  "name": "CalorieScience Companion",
+  "description": "Connected clinical nutrition adherence workflow uniting a mobile-first client companion app with a practitioner adherence intelligence dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
